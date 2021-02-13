@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+#Windows
+Debug/
+packages/
+.DS_Store
+*.suo
+.vs/
